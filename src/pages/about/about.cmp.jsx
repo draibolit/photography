@@ -38,10 +38,10 @@ class AboutPage extends React.Component {
 						<Link className="link-button" to="/contact">
 							Contact me
 						</Link>
-						<a href="https://www.instagram.com/tuannguyen/" target="blank">
-							<FaInstagram className="react-icons" />
-						</a>
-						<a href="https://www.facebook.com/tuannguyen..." target="blank">
+						{/* <a href="https://www.instagram.com/tuannguyen/" target="blank"> */}
+						{/* 	<FaInstagram className="react-icons" /> */}
+						{/* </a> */}
+						<a href="https://www.facebook.com/dr.aibolit.nguyen" target="blank">
 							<FaFacebookSquare className="react-icons" />
 						</a>
 					</div>

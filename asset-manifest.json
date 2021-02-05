@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/draibolit/photography/static/css/main.84d84528.chunk.css",
+    "main.js": "/draibolit/photography/static/js/main.f4fa86e1.chunk.js",
+    "main.js.map": "/draibolit/photography/static/js/main.f4fa86e1.chunk.js.map",
+    "runtime-main.js": "/draibolit/photography/static/js/runtime-main.55c9cc3a.js",
+    "runtime-main.js.map": "/draibolit/photography/static/js/runtime-main.55c9cc3a.js.map",
+    "static/css/2.519e4abc.chunk.css": "/draibolit/photography/static/css/2.519e4abc.chunk.css",
+    "static/js/2.3e674010.chunk.js": "/draibolit/photography/static/js/2.3e674010.chunk.js",
+    "static/js/2.3e674010.chunk.js.map": "/draibolit/photography/static/js/2.3e674010.chunk.js.map",
+    "index.html": "/draibolit/photography/index.html",
+    "precache-manifest.8cdaf5f750bc5c67e31c38de5337c6ca.js": "/draibolit/photography/precache-manifest.8cdaf5f750bc5c67e31c38de5337c6ca.js",
+    "service-worker.js": "/draibolit/photography/service-worker.js",
+    "static/css/2.519e4abc.chunk.css.map": "/draibolit/photography/static/css/2.519e4abc.chunk.css.map",
+    "static/css/main.84d84528.chunk.css.map": "/draibolit/photography/static/css/main.84d84528.chunk.css.map",
+    "static/js/2.3e674010.chunk.js.LICENSE.txt": "/draibolit/photography/static/js/2.3e674010.chunk.js.LICENSE.txt",
+    "static/media/photoswipe.css": "/draibolit/photography/static/media/default-skin.b257fa9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c9cc3a.js",
+    "static/css/2.519e4abc.chunk.css",
+    "static/js/2.3e674010.chunk.js",
+    "static/css/main.84d84528.chunk.css",
+    "static/js/main.f4fa86e1.chunk.js"
+  ]
+}

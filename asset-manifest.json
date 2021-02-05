@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/draibolit/photography/static/css/main.84d84528.chunk.css",
-    "main.js": "/draibolit/photography/static/js/main.f4fa86e1.chunk.js",
-    "main.js.map": "/draibolit/photography/static/js/main.f4fa86e1.chunk.js.map",
-    "runtime-main.js": "/draibolit/photography/static/js/runtime-main.55c9cc3a.js",
-    "runtime-main.js.map": "/draibolit/photography/static/js/runtime-main.55c9cc3a.js.map",
-    "static/css/2.519e4abc.chunk.css": "/draibolit/photography/static/css/2.519e4abc.chunk.css",
-    "static/js/2.3e674010.chunk.js": "/draibolit/photography/static/js/2.3e674010.chunk.js",
-    "static/js/2.3e674010.chunk.js.map": "/draibolit/photography/static/js/2.3e674010.chunk.js.map",
-    "index.html": "/draibolit/photography/index.html",
-    "precache-manifest.08676f3acb8c8b3c59f6d785758b141f.js": "/draibolit/photography/precache-manifest.08676f3acb8c8b3c59f6d785758b141f.js",
-    "service-worker.js": "/draibolit/photography/service-worker.js",
-    "static/css/2.519e4abc.chunk.css.map": "/draibolit/photography/static/css/2.519e4abc.chunk.css.map",
-    "static/css/main.84d84528.chunk.css.map": "/draibolit/photography/static/css/main.84d84528.chunk.css.map",
-    "static/js/2.3e674010.chunk.js.LICENSE.txt": "/draibolit/photography/static/js/2.3e674010.chunk.js.LICENSE.txt",
-    "static/media/photoswipe.css": "/draibolit/photography/static/media/default-skin.b257fa9c.svg"
+    "main.css": "/photography/static/css/main.84d84528.chunk.css",
+    "main.js": "/photography/static/js/main.8571eebb.chunk.js",
+    "main.js.map": "/photography/static/js/main.8571eebb.chunk.js.map",
+    "runtime-main.js": "/photography/static/js/runtime-main.7e82a340.js",
+    "runtime-main.js.map": "/photography/static/js/runtime-main.7e82a340.js.map",
+    "static/css/2.9faf53e8.chunk.css": "/photography/static/css/2.9faf53e8.chunk.css",
+    "static/js/2.22e8a65d.chunk.js": "/photography/static/js/2.22e8a65d.chunk.js",
+    "static/js/2.22e8a65d.chunk.js.map": "/photography/static/js/2.22e8a65d.chunk.js.map",
+    "index.html": "/photography/index.html",
+    "precache-manifest.960a73ab03f0b3e33ba6f53aa258b8fb.js": "/photography/precache-manifest.960a73ab03f0b3e33ba6f53aa258b8fb.js",
+    "service-worker.js": "/photography/service-worker.js",
+    "static/css/2.9faf53e8.chunk.css.map": "/photography/static/css/2.9faf53e8.chunk.css.map",
+    "static/css/main.84d84528.chunk.css.map": "/photography/static/css/main.84d84528.chunk.css.map",
+    "static/js/2.22e8a65d.chunk.js.LICENSE.txt": "/photography/static/js/2.22e8a65d.chunk.js.LICENSE.txt",
+    "static/media/photoswipe.css": "/photography/static/media/default-skin.b257fa9c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.55c9cc3a.js",
-    "static/css/2.519e4abc.chunk.css",
-    "static/js/2.3e674010.chunk.js",
+    "static/js/runtime-main.7e82a340.js",
+    "static/css/2.9faf53e8.chunk.css",
+    "static/js/2.22e8a65d.chunk.js",
     "static/css/main.84d84528.chunk.css",
-    "static/js/main.f4fa86e1.chunk.js"
+    "static/js/main.8571eebb.chunk.js"
   ]
 }

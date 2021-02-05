@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23a59b1603db97258d61c0a7be0ce3ab",
+    "revision": "1dbe28e1c5f12445e18631614b1f6ef2",
     "url": "/draibolit/photography/index.html"
   },
   {

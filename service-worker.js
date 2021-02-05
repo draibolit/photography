@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/draibolit/photography/precache-manifest.8cdaf5f750bc5c67e31c38de5337c6ca.js"
+  "/draibolit/photography/precache-manifest.08676f3acb8c8b3c59f6d785758b141f.js"
 );
 
 self.addEventListener('message', (event) => {

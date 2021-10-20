@@ -13,16 +13,16 @@ class HomePage extends React.Component {
 			sections: [
 				{
 					id: 1,
-					title: 'Lifestyle',
-					subtitle: 'People in Nagasaki',
-					imageUrl: 'https://res.cloudinary.com/dmhwdtooa/image/upload/v1612313115/photos/000035_tsxlb0.jpg',
+					title: 'Nagasaki',
+					subtitle: 'to there',
+					imageUrl: 'https://res.cloudinary.com/dmhwdtooa/image/upload/v1612313122/photos/000045_nqqayh.jpg',
 					reveal: false
 				},
 				{
 					id: 2,
-					title: 'Landscape',
-					subtitle: 'Places visited',
-					imageUrl: 'https://res.cloudinary.com/dmhwdtooa/image/upload/v1612313122/photos/000045_nqqayh.jpg',
+					title: 'Hanoi',
+					subtitle: 'from here',
+					imageUrl: 'https://res.cloudinary.com/dmhwdtooa/image/upload/v1634717040/photos/img316_copy_copy_ffvudi.jpg',
 					reveal: false
 				},
 			]
